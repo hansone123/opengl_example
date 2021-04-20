@@ -1,0 +1,4 @@
+﻿  opengl_example.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\workspace\opengl_example\x64\Debug\vc120.pdb'; linking object as if no debug info
+  opengl_example.vcxproj -> C:\workspace\opengl_example\x64\Debug\opengl_example.exe
